@@ -3,9 +3,9 @@
 Projeto desenvolvido para a disciplina Tópicos Especiais I
 
 ## Descrição
-Foi utilizado um dataset de tweets em português relacionado a crimes. O conjunto foi processado com técnicas de NLP utilizando a biblioteca spaCy.
+O conjunto de dados utilizado foi obtido por meio da plataforma Hugging Face, composto por tweets curtos em português (miguelribeirokk/crime_tweets_in_portuguese). Desse conjunto, foi selecionado um corpus contendo 50 documentos para análise do texto..
 
-## Etapas realizadas
+## Etapas
 - Limpeza e segmentação dos textos
 - POS Tagging (classificação gramatical)
 - NER (reconhecimento de entidades nomeadas)
