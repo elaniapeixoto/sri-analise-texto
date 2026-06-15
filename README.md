@@ -7,9 +7,7 @@ Projeto desenvolvido para a disciplina Tópicos Especiais I.
 O conjunto de dados utilizado foi obtido por meio da plataforma Hugging Face, composto por tweets curtos em português (miguelribeirokk/crime_tweets_in_portuguese). Desse conjunto, foi selecionado um corpus contendo 50 documentos para análise do texto.
 
 ## Fluxo de execução dos notebooks
-
-<img width="931" height="465" alt="fluxo_execucao_notebooks" src="https://github.com/user-attachments/assets/89330136-4203-4a14-bcab-6f6e5ba6bc64" />
-
+![Fluxo de execução dos notebooks](fluxo_execucao_notebooks.png)
 
 ## Etapas
 
