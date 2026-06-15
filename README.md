@@ -8,7 +8,8 @@ O conjunto de dados utilizado foi obtido por meio da plataforma Hugging Face, co
 
 ## Fluxo de execução dos notebooks
 
-![Fluxo de execução dos notebooks](fluxo_execucao_notebooks.png)
+<img width="931" height="465" alt="fluxo_execucao_notebooks" src="https://github.com/user-attachments/assets/89330136-4203-4a14-bcab-6f6e5ba6bc64" />
+
 
 ## Etapas
 
