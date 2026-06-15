@@ -29,8 +29,8 @@ O conjunto de dados utilizado foi obtido por meio da plataforma Hugging Face, co
 
 ## Estrutura
 
-- `data/`: arquivos CSV e arquivos gerados durante o processamento
-- `projecao/`: arquivos gerados para visualização das projeções de embeddings
-- Notebooks na raiz do projeto para processamento e análise
+- `data/`: arquivos CSV, datasets processados e arquivos gerados na AD1.
+- `projecao/`: arquivos gerados para visualização das projeções de embeddings da AD2.
+- Notebooks na raiz do projeto para preparação dos dados, análise textual e geração de embeddings.
 
 ##
